@@ -1,0 +1,9 @@
+setuptools==80.9.0
+pandas
+numpy
+requests
+flask
+seaborn
+matplotlib
+scikit-learn
+-e .
